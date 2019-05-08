@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Health Gym</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="appname">Health Gym</string>
+    <string name="noaccount">Don\'t have an account?</string>
+    <string name="create_new_acount">Create new account</string>
+    <string name="create_account">Create account</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="input_information">Input ur information</string>
+    <string name="incorrect_details">Incorrect username or password</string>
+    <string name="no_sensor">Sensor not found, try a different device...</string>
+    <string name="account_failed">Account failed to be created, try again...</string>
+    <string name="input_required_information">Fill out the required information!</string>
+    <string name="weak_password">Password must be greater than 7 letter</string>
+    <string name="use_valid_email">Please use a valid email</string>
+</resources>
